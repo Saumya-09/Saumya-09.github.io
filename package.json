@@ -7,18 +7,15 @@
     "server-node": "http-server -p 8081"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ayusharma/birthday.git"
+    "type": "git"
   },
   "keywords": [
     "Birthday"
   ],
-  "author": "Ayush Sharma",
-  "license": "WTFPL",
-  "bugs": {
-    "url": "https://github.com/ayusharma/birthday/issues"
+  "author": "Saumya Bhatt",
+  "license": "WTFPL"
   },
-  "homepage": "https://github.com/ayusharma/birthday#readme",
+  "homepage": "https://github.com/Saumya-09",
   "dependencies": {
     "http-server": "^0.11.1"
   }
